@@ -1,4 +1,4 @@
-# hw1 15~20題
+# hw5 15~20題
 ## 使用方法
 1. 請先下載libsvm https://github.com/cjlin1/libsvm
 2. 將hw5.py、train.dat以及test.dat移至libsvm/python目錄下

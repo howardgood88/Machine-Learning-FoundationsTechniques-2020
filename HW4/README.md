@@ -1,4 +1,4 @@
-# hw1 16~20題
+# hw4 16~20題
 ## 使用方法
 1. 請先下載liblinear https://github.com/cjlin1/liblinear
 2. 將hw4.py、train.dat以及test.dat移至liblinear/python目錄下
